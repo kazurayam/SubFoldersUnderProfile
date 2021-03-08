@@ -1,0 +1,8 @@
+{
+	"ENVIRONMENT": "Production",
+	"CATEGORY":	"2",
+	"INCLUDE_URLS": [],
+	"INCLUDE_SHEETS": [
+		"GangOfFour"
+	]
+}

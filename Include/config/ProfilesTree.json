@@ -1,0 +1,95 @@
+[
+	{	"type": "folder",
+		"name": "CURA",
+		"content": [
+			{	"type": "file",
+				"name": "DevelopmentEnv"
+			},
+			{	"type": "file",
+				"name": "ProductionEnv"
+			}
+			]
+	},
+	{	"type": "folder",
+		"name": "HP",
+		"content": [
+			{	"type": "folder",
+				"name": "base",
+				"content": [
+					{	"type": "file",
+						"name": "DevelopmentEnv_category0"
+					},
+					{	"type": "file",
+						"name": "DevelopmentEnv_category1"
+					},
+					{	"type": "file",
+						"name": "DevelopmentEnv_category2"
+					},
+					{	"type": "file",
+						"name": "DevelopmentEnv_category3"
+					},
+					{	"type": "file",
+						"name": "ProductionEnv_category0"
+					},
+					{	"type": "file",
+						"name": "ProductionEnv_category1"
+					},
+					{	"type": "file",
+						"name": "ProductionEnv_category2"
+					},
+					{	"type": "file",
+						"name": "ProductionEnv_category3"
+					},
+					{	"type": "file",
+						"name": "StagingEnv_category0"
+					},
+					{	"type": "file",
+						"name": "StagingEnv_category1"
+					},
+					{	"type": "file",
+						"name": "StagingEnv_category2"
+					},
+					{	"type": "file",
+						"name": "StagingEnv_category3"
+					}
+				]
+			},
+			{	"type": "folder",
+				"name": "brandon_hein",
+				"content": []
+			},
+			{	"type": "folder",
+				"name": "kazurayam",
+				"content": [
+					{	"type": "file",
+						"name": "DevelopmentEnv_category1_XXXbank_q.execOnly"
+					},
+					{	"type": "file",
+						"name": "ProductionEnv_category0_XXXXCompany_quotes_saveHTML_debug"
+					},
+					{	"type": "file",
+						"name": "ProductionEnv_category0_YYYYEnterprise_search.exe_saveHTML"
+					},
+					{	"type": "file",
+						"name": "ProductionEnv_category0_allServices_q.exeOnly"
+					},
+					{	"type": "file",
+						"name": "ProductionEnv_category2_GOF"
+					}
+				]
+			},
+			{	"type": "folder",
+				"name": "mate_mrse",
+				"content": []
+			},
+			{	"type": "folder",
+				"name": "ruth",
+				"content": []
+			}
+		]	
+	},
+	{	"type": "file",
+		"name": "default"
+	}
+	
+]
